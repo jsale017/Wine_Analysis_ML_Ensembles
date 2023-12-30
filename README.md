@@ -1,1 +1,3 @@
 # Wine_Analysis_ML_Ensembles
+The present project was commenced with a profound love for wine as the driving force. By combining this passion with the knowledge acquired from a recent machine learning course, the aim was to implement various ensemble models in practical applications. Ultimately, the goal is to develop a tool that assists wine enthusiasts in selecting the perfect bottle based on their taste and preferences. Additionally, this project intends to gain a deeper understanding of the variables that have a significant impact on wine quality. To perform this analysis, I utilized the concepts and labs taught in Questroms School of Business Supervised Machine Learning Course.
+
